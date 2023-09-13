@@ -9,11 +9,12 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class ApiFornecedorApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ApiFornecedorApplication.class, args);
-	}
-@GetMapping("/")
-	public String olaMundo(){
-		return "Ola Mundo";
-}
+    public static void main(String[] args) {
+        SpringApplication.run(ApiFornecedorApplication.class, args);
+    }
+
+    @GetMapping("/")
+    public String olaMundo() {
+        return "Ola Mundo";
+    }
 }
