@@ -85,8 +85,6 @@ A API faz parte de um sistema de academia com as seguintes funcionalidades:
 
 ✅ Implementado tabela `fornecedores` básica (sem relacionamento com outras tabelas)
 
-✅ Abaixo segue o diagrama ER da tabela `fornecedores`:
-
 ✅ Foi implementado `environments`
 
 ✅ Implementada conexão  ` com banco de dados`
