@@ -87,10 +87,6 @@ A API faz parte de um sistema de academia com as seguintes funcionalidades:
 
 ✅ Abaixo segue o diagrama ER da tabela `fornecedores`:
 
-<div align="center">
-<img src="images/er_fornecedor.png" height="300px" />
-</div>
-
 ✅ Foi implementado `environments`
 
 ✅ Implementada conexão  ` com banco de dados`
