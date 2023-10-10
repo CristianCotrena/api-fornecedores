@@ -93,9 +93,17 @@ A API faz parte de um sistema de academia com as seguintes funcionalidades:
 ---
 
 ### Etapa 3:
-✅ A ser implementado...
+✅  Padronização de retorno da API
 
-✅ A ser implementado...
+✅  Atualizado environments com escopo global entre IDEs
+
+✅ Adicionar Regras de negócio
+
+4 - Configurado e implementado Doc Swagger
+
+5 - Adicionado coleção POSTMAN
+
+6 - Implementado Testes Unitários
 
 
 ---
